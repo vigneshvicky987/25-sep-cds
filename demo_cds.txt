@@ -2,3 +2,6 @@ I am learning GIT using github
 
 we are writing lines
 to show to make version
+
+we are writing more lines to make
+3rd version
